@@ -1,10 +1,10 @@
 # Car-Accident-and-Sale-Correlation
 
+![](/ScreenShot20200723at90534PM.png)
+
 ![](/ScreenShot20200725at12138PM.png)
 
 ![](/ScreenShot20200725at12303PM.png)
-
-![](/ScreenShot20200723at90534PM.png)
 
 ![](/ScreenShot20200723at90608PM.png)
 
