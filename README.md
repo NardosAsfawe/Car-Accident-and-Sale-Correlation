@@ -15,7 +15,7 @@
 
 ![](/ScreenShot20200725at12138PM.png)
 
-<P1> This diagram shows the total number of car accidents that occured in the state of California and out that how many occured in the city of Los Angeles.</P1>
+<P1> This diagram shows the total number of car accidents that occured in the state of California and how many out of that occured in the city of Los Angeles.</P1>
 
 ![](/ScreenShot20200725at12218PM.png)
 
