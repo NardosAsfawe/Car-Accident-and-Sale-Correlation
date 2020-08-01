@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>IRISLink CGI  Error</title>
+</head>
+<body>
+<br>
+<center>
+<font size="+2">IRISLink CGI  Error:</font><br>
+<br>
+<font size="+1">
+The requested FORM METHOD is not allowed.
+</font>
+</center>
+</body>
+</html>
